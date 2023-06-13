@@ -1,0 +1,5 @@
+Netflix topics have achieved a topic diversity of: 0.7489711934156379
+YouTube topics have achieved a topic diversity of: 0.742562234365513
+WhatsApp topics have achieved a topic diversity of: 0.6599326599326599
+PayPal topics have achieved a topic diversity of: 0.722577209797657
+Amazon topics have achieved a topic diversity of: 0.7414467253176931

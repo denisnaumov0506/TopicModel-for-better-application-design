@@ -1,0 +1,15 @@
+# Initial results
+
+Netflix topics have achieved a topic coherence of: 0.5399142019098085
+YouTube topics have achieved a topic coherence of: 0.5188971947191633
+WhatsApp topics have achieved a topic coherence of: 0.558105309477691
+PayPal topics have achieved a topic coherence of: 0.5237444990509567
+Amazon topics have achieved a topic coherence of: 0.5563338593154165
+
+# Results after outlier reduction
+
+Netflix topics have achieved a topic coherence of: 0.5146657484948753
+YouTube topics have achieved a topic coherence of: 0.4242576868642952
+WhatsApp topics have achieved a topic coherence of: 0.48836867626112623
+PayPal topics have achieved a topic coherence of: 0.44194695752617974
+Amazon topics have achieved a topic coherence of: 0.5086189833534134
