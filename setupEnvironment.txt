@@ -1,0 +1,67 @@
+import commands to set up an environment in jupyter notebook for BERTopic modeling with GPU acceleration
+
+First step is to open wsl using wsl on the command prompt (initially you probably need to install ubuntu and set up a password)
+
+Second step is to create an environment using conda like this:
+
+conda create -n cuml_test5 -c rapidsai -c conda-forge -c pytorch -c nvidia cuml=23.04 python=3.8 cudatoolkit=11.8 pytorch torchvision torchaudio pytorch-cuda=11.8
+
+# install jupyter notebook
+conda install -c anaconda jupyter
+or
+python -m pip install jupyter
+
+# Now install the new kernel by running below command
+python -m ipykernel install --user --name=cuml_test5
+
+# To install bertopic
+conda install -c conda-forge bertopic
+
+# To install symspellpy
+conda install -c services symspellpy
+
+# To install gensim
+conda install -c anaconda gensim
+
+# To install spacy
+conda install -c conda-forge spacy
+
+# To install nltk
+conda install -c anaconda nltk
+
+# to install emoji
+conda install -c conda-forge emoji
+
+# To install polyglot
+conda install -c syllabs_admin polyglot
+or
+python -m pip install polyglot
+
+# To make polyglot work you need PyICU and pycld2
+conda install -c conda-forge pyicu
+conda install -c conda-forge pycld2
+
+# To look for all installed packages in the conda environment type: conda list
+
+python -m torch.utils.collect_env
+nvcc --version
+
+# To start the notebook
+jupyter notebook (inside the wsl conda environment)
+
+# In case you stumble upon the problem python setup.py bdist_wheel did not run successfully:
+
+python -m pip install cmake
+
+sudo apt-get install gcc libpq-dev -y
+sudo apt-get install python-dev python-pip -y
+sudo apt-get install python3-dev python3-pip python3-venv python3-wheel -y
+
+python -m pip install wheel setuptools --upgrade
+
+python -m pip install --upgrade pip
+
+# To close the wsl environment
+$>wsl -t Ubuntu
+or
+$>wsl --shutdown
