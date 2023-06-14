@@ -1,0 +1,140 @@
+                                                feedback  ...  feedback_length
+0       This new update is horrible for playback optio...  ...              363
+1       I won't get into the issues with YouTube as a ...  ...              499
+2       Over the years I've had no problems with this ...  ...              462
+3       The app has really gone downhill. Somehow, the...  ...              497
+4       HORRIBLE!!! This recent update is driving me n...  ...              499
+...                                                   ...  ...              ...
+151036  I love this app but some of the thumbnails are...  ...              131
+151037  I love youtube since it have content around th...  ...              289
+151038  it isn't running on older tablets it has the u...  ...              115
+151039  Everytime I watch a video or a movie on it. It...  ...              127
+151040  It is a very nice app and allows me to have fu...  ...              121
+
+[151041 rows x 3 columns]
+
+
+App: youtube
+
+Pair: (1, 2), Median diff: -9.00, P-Value:  0.000, Test: -9.090909875465169
+Pair: (1, 3), Median diff:  0.00, P-Value:  0.542, Test: -0.609704204133244
+Pair: (1, 4), Median diff:  14.00, P-Value:  0.000, Test: 13.38295776771458
+Pair: (1, 5), Median diff:  37.00, P-Value:  0.000, Test: 48.72691302694522
+Pair: (2, 3), Median diff:  9.00, P-Value:  0.000, Test: 6.954478608583333
+Pair: (2, 4), Median diff:  23.00, P-Value:  0.000, Test: 18.457739858614662
+Pair: (2, 5), Median diff:  46.00, P-Value:  0.000, Test: 44.60393408257206
+Pair: (3, 4), Median diff:  14.00, P-Value:  0.000, Test: 11.728174386448035
+Pair: (3, 5), Median diff:  37.00, P-Value:  0.000, Test: 37.61523494468582
+Pair: (4, 5), Median diff:  23.00, P-Value:  0.000, Test: 24.637669922088183
+                                                 feedback  ...  feedback_length
+0       I use this app all the time and its where most...  ...              474
+1       Went from 5 stars to 1. The split screen is an...  ...              499
+2       Worked excellent until the past update. When i...  ...              375
+3       The app is getting worse with each update. I'v...  ...              424
+4       The computer version is terrible. It takes sev...  ...              441
+...                                                   ...  ...              ...
+109843                                Just an amazing app  ...               19
+109844                                Very useful for app  ...               19
+109845  My whatsaap is not working i dont no why so no...  ...               89
+109846  Last updation is so bad, what the he'll are yo...  ...              136
+109847        We want all gb Whatsapp feature on this app  ...               43
+
+[109848 rows x 3 columns]
+
+
+App: whatsapp
+
+Pair: (1, 2), Median diff: -8.00, P-Value:  0.000, Test: -6.26135252981638
+Pair: (1, 3), Median diff: -8.00, P-Value:  0.000, Test: -7.831163930183983
+Pair: (1, 4), Median diff: -1.00, P-Value:  0.075, Test: -1.78346252522743
+Pair: (1, 5), Median diff:  26.00, P-Value:  0.000, Test: 34.942410628164424
+Pair: (2, 3), Median diff:  0.00, P-Value:  0.487, Test: -0.6950613070473249
+Pair: (2, 4), Median diff:  7.00, P-Value:  0.000, Test: 4.481442911877501
+Pair: (2, 5), Median diff:  34.00, P-Value:  0.000, Test: 31.508678459952876
+Pair: (3, 4), Median diff:  7.00, P-Value:  0.000, Test: 5.65893365957111
+Pair: (3, 5), Median diff:  34.00, P-Value:  0.000, Test: 35.511867578766015
+Pair: (4, 5), Median diff:  27.00, P-Value:  0.000, Test: 31.743039725020704
+                                                 feedback  ...  feedback_length
+0       I love netflix but as of recently, it has been...  ...              478
+1       Playback is good but almost 100% of the time i...  ...              457
+2       Whenever I use Netflix in phone app, Videos do...  ...              499
+3       I've just given up. The My List feature is sim...  ...              490
+4       It's a pretty decent app overall, but this lat...  ...              500
+...                                                   ...  ...              ...
+403165                                           Nice App  ...                8
+403166                                           good app  ...                8
+403167                                           Its good  ...                8
+403168                                  Very entertaining  ...               17
+403169                                           Nice App  ...                8
+
+[403170 rows x 3 columns]
+
+
+App: netflix
+
+Pair: (1, 2), Median diff: -29.00, P-Value:  0.000, Test: -32.77678394675053
+Pair: (1, 3), Median diff: -4.00, P-Value:  0.000, Test: -3.6571299988318864
+Pair: (1, 4), Median diff:  25.00, P-Value:  0.000, Test: 62.54479470721714
+Pair: (1, 5), Median diff:  54.00, P-Value:  0.000, Test: 232.2670536279514
+Pair: (2, 3), Median diff:  25.00, P-Value:  0.000, Test: 23.440399525001965
+Pair: (2, 4), Median diff:  54.00, P-Value:  0.000, Test: 67.52860587794248
+Pair: (2, 5), Median diff:  83.00, P-Value:  0.000, Test: 141.84390847012088
+Pair: (3, 4), Median diff:  29.00, P-Value:  0.000, Test: 46.70899533282254
+Pair: (3, 5), Median diff:  58.00, P-Value:  0.000, Test: 132.66831140077187
+Pair: (4, 5), Median diff:  29.00, P-Value:  0.000, Test: 98.41959939234809
+                                                 feedback  ...  feedback_length
+0       Every time it's updated over the past few mont...  ...              446
+1       Absolutely hate this app! Most of the time I g...  ...              498
+2       So, this app is largely OK. Decent shopping ex...  ...              497
+3       Im clicking the wrong button all the time. Ple...  ...              347
+4       Love how it times out and restarts when you're...  ...              449
+...                                                   ...  ...              ...
+143673                                              Great  ...                5
+143674                                               Nice  ...                4
+143675                                          Excellent  ...                9
+143676                                               LOVE  ...                4
+143677                                            Perfect  ...                7
+
+[143678 rows x 3 columns]
+
+
+App: amazon_shop
+
+Pair: (1, 2), Median diff: -15.00, P-Value:  0.000, Test: -9.142604103381789
+Pair: (1, 3), Median diff:  12.00, P-Value:  0.000, Test: 11.978500784839675
+Pair: (1, 4), Median diff:  65.00, P-Value:  0.000, Test: 61.960732442598236
+Pair: (1, 5), Median diff:  87.00, P-Value:  0.000, Test: 171.54413960540282
+Pair: (2, 3), Median diff:  27.00, P-Value:  0.000, Test: 16.253258430039757
+Pair: (2, 4), Median diff:  80.00, P-Value:  0.000, Test: 53.296989372847996
+Pair: (2, 5), Median diff:  102.00, P-Value:  0.000, Test: 101.66931688410476
+Pair: (3, 4), Median diff:  53.00, P-Value:  0.000, Test: 35.758852953690436
+Pair: (3, 5), Median diff:  75.00, P-Value:  0.000, Test: 78.94022129434133
+Pair: (4, 5), Median diff:  22.00, P-Value:  0.000, Test: 39.99278959136738
+                                                 feedback  ...  feedback_length
+0       This app is just a buggy mess. The app itself ...  ...              498
+1       If it's just used for online shopping, it's gr...  ...              371
+2       Made a transaction, and they debited twice fro...  ...              385
+3       Horrible automatic payment option that nobody ...  ...              488
+4       Like I've seen in other reviews it's really bu...  ...              446
+...                                                   ...  ...              ...
+119196  I deleted my account, is there a way I can get...  ...               55
+119197                                      Fast and easy  ...               13
+119198                   Locks your account for no reason  ...               32
+119199                       Great app, Thank you PayPal!  ...               28
+119200                                Haven't used it yet  ...               19
+
+[119201 rows x 3 columns]
+
+
+App: paypal
+
+Pair: (1, 2), Median diff:  19.00, P-Value:  0.000, Test: 11.489308638250689
+Pair: (1, 3), Median diff:  42.00, P-Value:  0.000, Test: 26.25457006241098
+Pair: (1, 4), Median diff:  83.00, P-Value:  0.000, Test: 73.60791830467828
+Pair: (1, 5), Median diff:  118.00, P-Value:  0.000, Test: 188.04685956639517
+Pair: (2, 3), Median diff:  23.00, P-Value:  0.000, Test: 11.837638430156353
+Pair: (2, 4), Median diff:  64.00, P-Value:  0.000, Test: 44.0391432989222
+Pair: (2, 5), Median diff:  99.00, P-Value:  0.000, Test: 87.56569680812801
+Pair: (3, 4), Median diff:  41.00, P-Value:  0.000, Test: 32.69655152981398
+Pair: (3, 5), Median diff:  76.00, P-Value:  0.000, Test: 77.37460644739942
+Pair: (4, 5), Median diff:  35.00, P-Value:  0.000, Test: 54.51355330541282
