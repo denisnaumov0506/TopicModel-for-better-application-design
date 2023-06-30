@@ -31,7 +31,7 @@ apps = [
 
 
 for app in apps:
-    # Dump the scraped data into a JSON file
+    # Read the scraped data from a JSON file
     with open(f'./data/{app}_reviews_all.json', 'r', encoding='utf-8') as f:
         data = json.load(f, cls=DateTimeDecoder)
 
