@@ -27,7 +27,7 @@ for app in apps:
 
     reviews = []
 
-    # Dump the scraped data into a JSON file
+    # Read the scraped data from a JSON file
     with open(f'./data/{app}_reviews_all.json', 'r', encoding='utf-8') as f:
         data = json.load(f, cls=DateTimeDecoder)
 
@@ -36,5 +36,4 @@ for app in apps:
         if entry['content'] != None:
             reviews.append(entry['content'])
 
-    # calculate the average
     print(f'The total number of reviews for {app} is: ', len(reviews))
