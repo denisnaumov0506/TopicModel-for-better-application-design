@@ -74,7 +74,6 @@ for app in apps:
     major_versions = list(set(major_versions))
     major_versions.sort(key=lambda x: list(map(int, x.split('.'))))
 
-    # calculate the average
     print(f'The number of versions for {app} are: ', len(versions))
     print(f'The oldest version for {app} is: ', versions[0])
     print(f'The newest version for {app} is: ', versions[-1])
