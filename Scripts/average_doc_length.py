@@ -13,6 +13,7 @@ for app in apps:
 
     data = []
 
+    # read the frequency distribution of document lengths
     with open(f'fdist_{app}.csv', 'r', newline='\n') as f:
         reader = csv.reader(f, delimiter=',', quotechar='|')
         for row in reader:
