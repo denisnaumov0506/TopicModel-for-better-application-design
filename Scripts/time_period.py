@@ -27,11 +27,11 @@ for app in apps:
 
     dates = []
 
-    # Dump the scraped data into a JSON file
+    # Read the scraped data from a JSON file
     with open(f'./data/{app}_reviews_all.json', 'r', encoding='utf-8') as f:
         data = json.load(f, cls=DateTimeDecoder)
 
-    # filter out any positive reviews for the content meta data
+    # extract the dates from the data dictionary variable
     for entry in data:
         dates.append(entry['at'].date())
 
@@ -39,6 +39,5 @@ for app in apps:
     dates = list(set(dates))
     dates.sort()
 
-    # calculate the average
     print(f'The start date for {app} is: ', dates[0])
     print(f'The end date for {app} is: ', dates[-1], '\n\n')
