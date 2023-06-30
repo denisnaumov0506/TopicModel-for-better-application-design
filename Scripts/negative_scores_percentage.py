@@ -39,5 +39,5 @@ for app in apps:
         if int(entry['score']) < 5:
             scores_negative.append(entry['score'])
 
-    # calculate the average
+    # calculate and print the negative score precentage
     print(f'The percentage of negative reviews for {app} is: ', len(scores_negative)/len(data))
